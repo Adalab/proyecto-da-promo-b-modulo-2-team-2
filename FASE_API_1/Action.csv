@@ -41,50 +41,57 @@
 39,tt0086566,Walking the Edge,Movie,1985,Action
 40,tt0088137,Sloane,Movie,1985,Action
 41,tt0087130,DEFCON-4,Movie,1985,Action
-42,tt0090170,Thunder II,Movie,1987,Action
-43,tt0088962,Crime Killer,Movie,1987,Action
-44,tt0090302,Wai Si-Lei chuen kei,Movie,1987,Action
-45,tt0089563,Masterblaster,Movie,1987,Action
-46,tt0091012,Equalizer 2000,Movie,1987,Action
-47,tt0090847,City of Shadows,Movie,1987,Action
-48,tt0090956,Dung fong tuk ying,Movie,1987,Action
-49,tt0090902,The Danger Zone,Movie,1987,Action
-50,tt0090587,Guo jiang,Movie,1988,Action
-51,tt0092841,Dead Man Walking,Movie,1988,Action
-52,tt0092787,Escuadrón,Movie,1988,Action
-53,tt0093171,Hell Comes to Frogtown,Movie,1988,Action
-54,tt0091285,Java Burn,Movie,1988,Action
-55,tt0093983,Skeleton Coast,Movie,1988,Action
-56,tt0092582,The Arrogant,Movie,1988,Action
-57,tt0093663,The Occultist,Movie,1988,Action
-58,tt0090334,Wizards of the Lost Kingdom II,Movie,1989,Action
-59,tt0094386,Zui hou de feng kuang,Movie,1989,Action
-60,tt0094384,Zombie vs. Ninja,Movie,1989,Action
-61,tt0094607,Accidents,Movie,1989,Action
-62,tt0092531,Alien Private Eye,Movie,1989,Action
-63,tt0094620,After Death (Oltre la morte),Movie,1989,Action
-64,tt0090869,Comando terrorista,Movie,1990,Action
-65,tt0092926,Dragon Hunt,Movie,1990,Action
-66,tt0094376,Huang jia shi jie zhi: Zhong jian ren,Movie,1990,Action
-67,tt0094004,Soldier of Fortune,Movie,1990,Action
-68,tt0093989,Xian sha lu,Movie,1990,Action
-69,tt0095095,Emperor of the Bronx,Movie,1990,Action
-70,tt0095290,Hei hai ba wang hua,Movie,1990,Action
-71,tt0096469,Wu ye tian shi,Movie,1990,Action
-72,tt0094926,Curse of the Crystal Eye,Movie,1991,Action
-73,tt0097318,Eye of the Widow,Movie,1991,Action
-74,tt0097864,Meng gui hu li jing,Movie,1991,Action
-75,tt0095335,Gun gun hong chun,Movie,1992,Action
-76,tt0097064,Circle of Fear,Movie,1992,Action
-77,tt0099814,Hurricane Smith,Movie,1992,Action
-78,tt0099793,Hong tian huang jia jiang,Movie,1992,Action
-79,tt0100195,Sha qiu zhan shi,Movie,1992,Action
-80,tt0101828,Eternal Fist,Movie,1992,Action
-81,tt0101288,Al filo de la ley,Movie,1992,Action
-82,tt0102073,Humlaa,Movie,1992,Action
-83,tt0096090,Leung seung ching yuen,Movie,1993,Action
-84,tt0101928,Full Impact,Movie,1993,Action
-85,tt0105881,Magkasangga 2000,Movie,1995,Action
-86,tt0109178,Automatic,Movie,1995,Action
-87,tt0109033,Abducted II: The Reunion,Movie,1995,Action
-88,tt0109536,The Dangerous,Movie,1995,Action
+42,tt0066151,Ninja Destroyer,Movie,1986,Action
+43,tt0081236,Ninja Champion,Movie,1986,Action
+44,tt0084668,Da Shang Hai 1937,Movie,1986,Action
+45,tt0086930,Bad Girls Dormitory,Movie,1986,Action
+46,tt0089861,Qi yuan,Movie,1986,Action
+47,tt0087368,Gruz bez markirovki,Movie,1986,Action
+48,tt0089930,Roller Blade,Movie,1986,Action
+49,tt0090170,Thunder II,Movie,1987,Action
+50,tt0088962,Crime Killer,Movie,1987,Action
+51,tt0090302,Wai Si-Lei chuen kei,Movie,1987,Action
+52,tt0089563,Masterblaster,Movie,1987,Action
+53,tt0091012,Equalizer 2000,Movie,1987,Action
+54,tt0090847,City of Shadows,Movie,1987,Action
+55,tt0090956,Dung fong tuk ying,Movie,1987,Action
+56,tt0090902,The Danger Zone,Movie,1987,Action
+57,tt0090587,Guo jiang,Movie,1988,Action
+58,tt0092841,Dead Man Walking,Movie,1988,Action
+59,tt0092787,Escuadrón,Movie,1988,Action
+60,tt0093171,Hell Comes to Frogtown,Movie,1988,Action
+61,tt0091285,Java Burn,Movie,1988,Action
+62,tt0093983,Skeleton Coast,Movie,1988,Action
+63,tt0092582,The Arrogant,Movie,1988,Action
+64,tt0093663,The Occultist,Movie,1988,Action
+65,tt0090334,Wizards of the Lost Kingdom II,Movie,1989,Action
+66,tt0094386,Zui hou de feng kuang,Movie,1989,Action
+67,tt0094384,Zombie vs. Ninja,Movie,1989,Action
+68,tt0094607,Accidents,Movie,1989,Action
+69,tt0092531,Alien Private Eye,Movie,1989,Action
+70,tt0094620,After Death (Oltre la morte),Movie,1989,Action
+71,tt0090869,Comando terrorista,Movie,1990,Action
+72,tt0092926,Dragon Hunt,Movie,1990,Action
+73,tt0094376,Huang jia shi jie zhi: Zhong jian ren,Movie,1990,Action
+74,tt0094004,Soldier of Fortune,Movie,1990,Action
+75,tt0093989,Xian sha lu,Movie,1990,Action
+76,tt0095095,Emperor of the Bronx,Movie,1990,Action
+77,tt0095290,Hei hai ba wang hua,Movie,1990,Action
+78,tt0096469,Wu ye tian shi,Movie,1990,Action
+79,tt0094926,Curse of the Crystal Eye,Movie,1991,Action
+80,tt0097318,Eye of the Widow,Movie,1991,Action
+81,tt0097864,Meng gui hu li jing,Movie,1991,Action
+82,tt0095335,Gun gun hong chun,Movie,1992,Action
+83,tt0097064,Circle of Fear,Movie,1992,Action
+84,tt0099814,Hurricane Smith,Movie,1992,Action
+85,tt0099793,Hong tian huang jia jiang,Movie,1992,Action
+86,tt0100195,Sha qiu zhan shi,Movie,1992,Action
+87,tt0101828,Eternal Fist,Movie,1992,Action
+88,tt0101288,Al filo de la ley,Movie,1992,Action
+89,tt0102073,Humlaa,Movie,1992,Action
+90,tt0096090,Leung seung ching yuen,Movie,1993,Action
+91,tt0101928,Full Impact,Movie,1993,Action
+92,tt0105881,Magkasangga 2000,Movie,1995,Action
+93,tt0109178,Automatic,Movie,1995,Action
+94,tt0109033,Abducted II: The Reunion,Movie,1995,Action
+95,tt0109536,The Dangerous,Movie,1995,Action
