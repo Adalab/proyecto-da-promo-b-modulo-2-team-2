@@ -24,352 +24,372 @@
 22,Mario Adorf,tt0079106
 23,Andréa Ferréol,tt0079106
 24,Raimund Harmstorf,tt0079106
-25,Sheng Fu,tt0079896
-26,Niu Niu,tt0079896
-27,Lung Ti,tt0079896
-28,Tien-Chi Cheng,tt0079896
-29,Sheng Chiang,tt0079896
-30,Rainer Abendroth,tt0068745
-31,Günther Amann,tt0068745
-32,Peter Bond,tt0068745
-33,Petra Dyrthen,tt0068745
-34,Diana Jovanovic,tt0068745
-35,Régis Porte,tt0075332
-36,Patricia Zenker,tt0075332
-37,Tobias Meister,tt0075332
-38,Herbert Fux,tt0075332
-39,Renate Langer,tt0075332
-40,Paul Che,tt0076464
-41,Ching Yee Chong,tt0076464
-42,Chun-Hua Li,tt0076464
-43,Ricky Hui,tt0076580
-44,Chi-Chi Chen,tt0076580
-45,Ka Yik,tt0076580
-46,Jing Tang,tt0076580
-47,Johnny Koo,tt0076580
-48,Lidia Zuazo,tt0077367
-49,Saturno Cerra,tt0077367
-50,Fabián Conde,tt0077367
-51,Valerio Ferrer,tt0077367
-52,Maika Lesley,tt0077367
-53,Tony Curtis,tt0077428
-54,Louis Gossett Jr.,tt0077428
-55,Sally Kellerman,tt0077428
-56,John Vernon,tt0077428
-57,Lisa Langlois,tt0077428
-58,Eduard Cupák,tt0077883
-59,Vladimír Mensík,tt0077883
-60,Lukás Vaculík,tt0077883
-61,Michal Dlouhý,tt0077883
-62,Jan Hrusínský,tt0077883
-63,Bernd Stephan,tt0078853
-64,Anny Duperey,tt0078853
-65,Hans Beerhenke,tt0078853
-66,Ivan Desny,tt0078853
-67,Adrian Hoven,tt0078853
-68,Monika Dzienisiewicz-Olbrychska,tt0078304
-69,Krzysztof Kalczynski,tt0078304
-70,Olgierd Lukaszewicz,tt0078304
-71,Hanna Mikuc,tt0078304
-72,Jerzy Nowak,tt0078304
-73,Terry Congie,tt0072173
-74,Lesley Brander,tt0072173
-75,Roselyn Royce,tt0072173
-76,Robert Acey,tt0072173
-77,Kevin Costner,tt0072173
-78,Ryong Keo,tt0075859
-79,Irina Shevchenko,tt0075859
-80,Bruce Le,tt0075859
-81,Il-do Jang,tt0075859
-82,Bruce Thai,tt0075859
-83,José Gomes,tt0075631
-84,Virgílio Massinge,tt0075631
-85,Michele Placido,tt0076043
-86,Ida Di Benedetto,tt0076043
-87,Antonella Murgia,tt0076043
-88,Imma Piro,tt0076043
-89,Antonio Orlando,tt0076043
-90,David Chiang,tt0076321
-91,Hua Yueh,tt0076321
-92,Paul Chun,tt0076321
-93,Siu-Tin Yuen,tt0076321
-94,Nancy Yen,tt0076321
-95,Pavle Vuisic,tt0076276
-96,Dragan Nikolic,tt0076276
-97,Danilo 'Bata' Stojkovic,tt0076276
-98,Aleksandar Bercek,tt0076276
-99,Neda Arneric,tt0076276
-100,Ana Ofelia Murguía,tt0077366
-101,Sergio Jiménez,tt0077366
-102,Jorge Humberto Robles,tt0077366
-103,Rebeca Aranoni,tt0077366
-104,Patricia Bernal,tt0077366
-105,Jerzy Skolimowski,tt0062181
-106,Joanna Szczerbic,tt0062181
-107,Tadeusz Lomnicki,tt0062181
-108,Adam Hanuszkiewicz,tt0062181
-109,Bogumil Kobiela,tt0062181
-110,Jillian Kesner,tt0067100
-111,Darby Hinton,tt0067100
-112,Rey Malonzo,tt0067100
-113,Ken Metcalfe,tt0067100
-114,Pete Cooper,tt0067100
-115,Hilda Bernard,tt0075187
-116,María Aurelia Bisutti,tt0075187
-117,Tom Castronuova,tt0075187
-118,Elena Cruz,tt0075187
-119,María José Demare,tt0075187
-120,Sasha Montenegro,tt0077389
-121,Eduardo de la Peña,tt0077389
-122,Katy Jurado,tt0077389
-123,Cecilia Leger,tt0077389
-124,Julissa,tt0077389
-125,Kaneto Shiozawa,tt0079293
-126,Keiko Takeshita,tt0079293
-127,Hiroshi Ôtake,tt0079293
-128,Katsue Miwa,tt0079293
-129,Kazue Takahashi,tt0079293
-130,Dharmendra,tt0079749
-131,Hema Malini,tt0079749
-132,Zeenat Aman,tt0079749
-133,Prem Chopra,tt0079749
-134,Zakir Mukhamedzhanov,tt0079749
-135,Jean Martin,tt0079820
-136,Pascal Mazzotti,tt0079820
-137,Raymond Bussières,tt0079820
-138,Agnès Viala,tt0079820
-139,Renaud Marx,tt0079820
-140,Antonino Solmer,tt0079760
-141,Márcia Breia,tt0079760
-142,Adelaide João,tt0079760
-143,António Cara D'Anjo,tt0079760
-144,António Rama,tt0079760
-145,Marcello Mastroianni,tt0080539
-146,Anna Prucnal,tt0080539
-147,Bernice Stegers,tt0080539
-148,Jole Silvani,tt0080539
-149,Donatella Damiani,tt0080539
-150,Keiko Takeshita,tt0078349
-151,Tarô Shigaki,tt0078349
-152,Asao Koike,tt0078349
-153,Yôko Asagami,tt0078349
-154,Yoneko Matsukane,tt0078349
-155,Richard Burton,tt0079492
-156,Kate Mulgrew,tt0079492
-157,Nicholas Clay,tt0079492
-158,Cyril Cusack,tt0079492
-159,Geraldine Fitzgerald,tt0079492
-160,Miguel Ayones,tt0080495
-161,Beatriz Galbó,tt0080495
-162,Lucy Tovar,tt0080495
-163,Pancho Córdova,tt0080495
-164,Ricardo Díaz,tt0080495
-165,Mark Miller,tt0080531
-166,Slim Pickens,tt0080531
-167,Jack Glenn Evans,tt0080531
-168,Logan Field,tt0080531
-169,Maurice Grandmaison,tt0080531
-170,Diana Musca,tt0080667
-171,Ernest Maftei,tt0080667
-172,Elena Dragoi,tt0080667
-173,Florina Cercel,tt0080667
-174,Alexandru Matei,tt0080667
-175,Katsuo Nakamura,tt0074994
-176,Masaaki Daimon,tt0074994
-177,Mitsuo Hamada,tt0074994
-178,Daigo Kusano,tt0074994
-179,Mieko Takamine,tt0074994
-180,Enny Haryono,tt0078113
-181,Barry Prima,tt0078113
-182,Johann Mardjono,tt0078113
-183,Rukman Herman,tt0078113
-184,Jafarpree York,tt0078113
-185,Per Oscarsson,tt0077567
-186,Patrick Magee,tt0077567
-187,Marilù Tolo,tt0077567
-188,Brendan Price,tt0077567
-189,Niall Toibin,tt0077567
-190,Javier Escrivá,tt0078791
-191,Silvia Aguilar,tt0078791
-192,Alida Valli,tt0078791
-193,Mara Goyanes,tt0078791
-194,Carmen Maura,tt0078791
-195,Carrie Snodgress,tt0078806
-196,Ray Milland,tt0078806
-197,Ruth Cox,tt0078806
-198,Rosemary Murphy,tt0078806
-199,Frances Bay,tt0078806
-200,Al Cliver,tt0078936
-201,Sabrina Siani,tt0078936
-202,Jérôme Foulon,tt0078936
-203,Lina Romay,tt0078936
-204,Shirley Knight,tt0078936
-205,Belinda Mayne,tt0078749
-206,Mark Bodin,tt0078749
-207,Roberto Barrese,tt0078749
-208,Benedetta Fantoli,tt0078749
-209,Michele Soavi,tt0078749
-210,James Johnson,tt0078880
-211,Judith-Marie Bergan,tt0078880
-212,Jerry McGee,tt0078880
-213,Ian Scott,tt0078880
-214,Patrick Hines,tt0078880
-215,Robert Kerman,tt0078935
-216,Francesca Ciardi,tt0078935
-217,Perry Pirkanen,tt0078935
-218,Luca Barbareschi,tt0078935
-219,Salvatore Basile,tt0078935
-220,Paul Callaway,tt0073604
-221,Richard Lange,tt0073604
-222,Glenn Scherer,tt0073604
-223,Brad Ellingson,tt0073604
-224,Karen McDiarmid,tt0073604
-225,Christian Borromeo,tt0079120
-226,Alexandra Bastedo,tt0079120
-227,Emilio Gutiérrez Caba,tt0079120
-228,Berta Cabré,tt0079120
-229,José María Caffarel,tt0079120
-230,Diana Bracho,tt0080054
-231,Isabela Corona,tt0080054
-232,Manuel Ojeda,tt0080054
-233,María Rebeca,tt0080054
-234,Lilian Davis,tt0080054
-235,Ana Martín,tt0078546
-236,Enrique Lizalde,tt0078546
-237,Rafael Baledón,tt0078546
-238,Blanca Baldó,tt0078546
-239,Miguel Ángel Ferriz,tt0078546
-240,Viktor Preiss,tt0081435
-241,Pavel Pavlovský,tt0081435
-242,Radovan Lukavský,tt0081435
-243,Petr Kostka,tt0081435
-244,Radoslav Brzobohatý,tt0081435
-245,Anne Parillaud,tt0081315
-246,Sascha Hehn,tt0081315
-247,Paca Gabaldón,tt0081315
-248,María Rey,tt0081315
-249,Eva Lyberten,tt0081315
-250,Maurice Risch,tt0081513
-251,Pierre Tchernia,tt0081513
-252,Pierre Tornade,tt0081513
-253,Maurice Chevit,tt0081513
-254,Bernard Haller,tt0081513
-255,Judith Arciniega,tt0082531
-256,Rosa María Bianchi,tt0082531
-257,Maria del Carmen Cardenas,tt0082531
-258,Luis Rábago,tt0082531
-259,Richard Chamberlain,tt0081203
-260,John Houseman,tt0081203
-261,Sara Botsford,tt0081203
-262,Robin Gammell,tt0081203
-263,Gary Reineke,tt0081203
-264,Pedro Armendáriz Jr.,tt0082324
-265,Helena Rojo,tt0082324
-266,Ernesto Gómez Cruz,tt0082324
-267,Aurora Clavel,tt0082324
-268,Paco Mauri,tt0082324
-269,Laurie Lapinski,tt0082279
-270,Stephen Sachs,tt0082279
-271,David Snow,tt0082279
-272,Pamela Holland,tt0082279
-273,Dennis Ely,tt0082279
-274,Albert Antalffy,tt0079258
-275,Kati Bontovits,tt0079258
-276,Katalin Dobos,tt0079258
-277,Kornél Gelley,tt0079258
-278,Lenke Lorán,tt0079258
-279,Joaquín Hinojosa,tt0079014
-280,Cristina Sánchez Pascual,tt0079014
-281,Alicia Hermida,tt0079014
-282,Luis Politti,tt0079014
-283,Julieta Serrano,tt0079014
-284,Vera Alentova,tt0079579
-285,Aleksey Batalov,tt0079579
-286,Irina Muravyova,tt0079579
-287,Aleksandr Fatyushin,tt0079579
-288,Raisa Ryazanova,tt0079579
-289,Irina Alfyorova,tt0079835
-290,Aleksandr Abdulov,tt0079835
-291,Lyudmila Drebnyova,tt0079835
-292,Rufina Nifontova,tt0079835
-293,Klara Luchko,tt0079835
-294,Stefano Patrizi,tt0077648
-295,Lilli Carati,tt0077648
-296,Miguel Ayones,tt0077648
-297,Leonora Fani,tt0077648
-298,Simón Andreu,tt0077648
-299,Isabelle Adjani,tt0080541
-300,Daniel Auteuil,tt0080541
-301,Josiane Balasko,tt0080541
-302,Christophe Bourseiller,tt0080541
-303,Christian Clavier,tt0080541
-304,Fernando Cabral Martins,tt0080563
-305,André Gomes,tt0080563
-306,Juliet Berto,tt0080563
-307,Jorge Silva Melo,tt0080563
-308,Luís Pacheco,tt0080563
-309,Amitabh Bachchan,tt0080376
-310,Rakhee Gulzar,tt0080376
-311,Amjad Khan,tt0080376
-312,Utpal Dutt,tt0080376
-313,Prema Narayan,tt0080376
-314,Marina Neyolova,tt0080591
-315,Natalya Andreychenko,tt0080591
-316,Mariya Vinogradova,tt0080591
-317,Tatyana Bozhok,tt0080591
-318,Nikolai Skorobogatov,tt0080591
-319,Kapax,tt0080883
-320,María Bauza,tt0080883
-321,Aldo Sambrell,tt0080883
-322,Eva Bravo,tt0080883
-323,Flor Marina Rodríguez,tt0080883
-324,Rod Steiger,tt0078508
-325,David Huffman,tt0078508
-326,Robin Mattson,tt0078508
-327,Jerry Hardin,tt0078508
-328,Richard Herd,tt0078508
-329,Willie Andréason,tt0078805
-330,Vivian Falk,tt0078805
-331,Roland Johansson,tt0078805
-332,Thomas Johansson,tt0078805
-333,Marina Lindahl,tt0078805
-334,Telly Savalas,tt0078895
-335,Danny De La Paz,tt0078895
-336,Eddie Albert,tt0078895
-337,Michael V. Gazzo,tt0078895
-338,Cecilia Camacho,tt0078895
-339,Miou-Miou,tt0079145
-340,Jean-Marc Thibault,tt0079145
-341,Leny Escudéro,tt0079145
-342,Jean-Pierre Kalfon,tt0079145
-343,François Simon,tt0079145
-344,Lina Romay,tt0078053
-345,Nadine Pascal,tt0078053
-346,Olivier Mathot,tt0078053
-347,Joëlle Le Quément,tt0078053
-348,Mel Rodrigo,tt0078053
-349,Manuel Ojeda,tt0079181
-350,Norma Herrera,tt0079181
-351,José Carlos Ruiz,tt0079181
-352,Milton Rodríguez,tt0079181
-353,Ada Carrasco,tt0079181
-354,Manuel Ojeda,tt0079341
-355,Diana Bracho,tt0079341
-356,Delia Casanova,tt0079341
-357,Jorge Humberto Robles,tt0079341
-358,Noé Murayama,tt0079341
-359,Eric Silverstein,tt0079706
-360,Lola Desmond,tt0079706
-361,Daniel Odell,tt0079706
-362,Melody Bates,tt0079706
-363,Jacob Hayward,tt0079706
-364,Manuel de Blas,tt0080608
-365,Juan Carlos Sánchez,tt0080608
-366,Eduardo Calvo,tt0080608
-367,Olvido Lorente,tt0080608
-368,José Luis Cuerda,tt0080608
-369,William Wellman Jr.,tt0080915
-370,Susan Plumb,tt0080915
-371,Patty Dunning,tt0080915
-372,Russell S. Doughten Jr.,tt0080915
-373,Wenda Shereos,tt0080915
+25,Andrés García,tt0078941
+26,Alicia Encinas,tt0078941
+27,René Cardona III,tt0078941
+28,Pablo Ferrel,tt0078941
+29,Gloria Chávez,tt0078941
+30,Feng Hsu,tt0078726
+31,Yun Ling,tt0078726
+32,Tao-Liang Tan,tt0078726
+33,Michael Wai-Man Chan,tt0078726
+34,Chung Wang,tt0078726
+35,Richard Boone,tt0078918
+36,Toshirô Mifune,tt0078918
+37,Mike Starr,tt0078918
+38,Timothy Patrick Murphy,tt0078918
+39,Frank Converse,tt0078918
+40,Valentín Trujillo,tt0079712
+41,Blanca Guerra,tt0079712
+42,Patricia Rivera,tt0079712
+43,Narciso Busquets,tt0079712
+44,Eric del Castillo,tt0079712
+45,Sheng Fu,tt0079896
+46,Niu Niu,tt0079896
+47,Lung Ti,tt0079896
+48,Tien-Chi Cheng,tt0079896
+49,Sheng Chiang,tt0079896
+50,Rainer Abendroth,tt0068745
+51,Günther Amann,tt0068745
+52,Peter Bond,tt0068745
+53,Petra Dyrthen,tt0068745
+54,Diana Jovanovic,tt0068745
+55,Régis Porte,tt0075332
+56,Patricia Zenker,tt0075332
+57,Tobias Meister,tt0075332
+58,Herbert Fux,tt0075332
+59,Renate Langer,tt0075332
+60,Paul Che,tt0076464
+61,Ching Yee Chong,tt0076464
+62,Chun-Hua Li,tt0076464
+63,Ricky Hui,tt0076580
+64,Chi-Chi Chen,tt0076580
+65,Ka Yik,tt0076580
+66,Jing Tang,tt0076580
+67,Johnny Koo,tt0076580
+68,Lidia Zuazo,tt0077367
+69,Saturno Cerra,tt0077367
+70,Fabián Conde,tt0077367
+71,Valerio Ferrer,tt0077367
+72,Maika Lesley,tt0077367
+73,Tony Curtis,tt0077428
+74,Louis Gossett Jr.,tt0077428
+75,Sally Kellerman,tt0077428
+76,John Vernon,tt0077428
+77,Lisa Langlois,tt0077428
+78,Eduard Cupák,tt0077883
+79,Vladimír Mensík,tt0077883
+80,Lukás Vaculík,tt0077883
+81,Michal Dlouhý,tt0077883
+82,Jan Hrusínský,tt0077883
+83,Bernd Stephan,tt0078853
+84,Anny Duperey,tt0078853
+85,Hans Beerhenke,tt0078853
+86,Ivan Desny,tt0078853
+87,Adrian Hoven,tt0078853
+88,Monika Dzienisiewicz-Olbrychska,tt0078304
+89,Krzysztof Kalczynski,tt0078304
+90,Olgierd Lukaszewicz,tt0078304
+91,Hanna Mikuc,tt0078304
+92,Jerzy Nowak,tt0078304
+93,Terry Congie,tt0072173
+94,Lesley Brander,tt0072173
+95,Roselyn Royce,tt0072173
+96,Robert Acey,tt0072173
+97,Kevin Costner,tt0072173
+98,Ryong Keo,tt0075859
+99,Irina Shevchenko,tt0075859
+100,Bruce Le,tt0075859
+101,Il-do Jang,tt0075859
+102,Bruce Thai,tt0075859
+103,José Gomes,tt0075631
+104,Virgílio Massinge,tt0075631
+105,Michele Placido,tt0076043
+106,Ida Di Benedetto,tt0076043
+107,Antonella Murgia,tt0076043
+108,Imma Piro,tt0076043
+109,Antonio Orlando,tt0076043
+110,David Chiang,tt0076321
+111,Hua Yueh,tt0076321
+112,Paul Chun,tt0076321
+113,Siu-Tin Yuen,tt0076321
+114,Nancy Yen,tt0076321
+115,Pavle Vuisic,tt0076276
+116,Dragan Nikolic,tt0076276
+117,Danilo 'Bata' Stojkovic,tt0076276
+118,Aleksandar Bercek,tt0076276
+119,Neda Arneric,tt0076276
+120,Ana Ofelia Murguía,tt0077366
+121,Sergio Jiménez,tt0077366
+122,Jorge Humberto Robles,tt0077366
+123,Rebeca Aranoni,tt0077366
+124,Patricia Bernal,tt0077366
+125,Jerzy Skolimowski,tt0062181
+126,Joanna Szczerbic,tt0062181
+127,Tadeusz Lomnicki,tt0062181
+128,Adam Hanuszkiewicz,tt0062181
+129,Bogumil Kobiela,tt0062181
+130,Jillian Kesner,tt0067100
+131,Darby Hinton,tt0067100
+132,Rey Malonzo,tt0067100
+133,Ken Metcalfe,tt0067100
+134,Pete Cooper,tt0067100
+135,Hilda Bernard,tt0075187
+136,María Aurelia Bisutti,tt0075187
+137,Tom Castronuova,tt0075187
+138,Elena Cruz,tt0075187
+139,María José Demare,tt0075187
+140,Sasha Montenegro,tt0077389
+141,Eduardo de la Peña,tt0077389
+142,Katy Jurado,tt0077389
+143,Cecilia Leger,tt0077389
+144,Julissa,tt0077389
+145,Kaneto Shiozawa,tt0079293
+146,Keiko Takeshita,tt0079293
+147,Hiroshi Ôtake,tt0079293
+148,Katsue Miwa,tt0079293
+149,Kazue Takahashi,tt0079293
+150,Dharmendra,tt0079749
+151,Hema Malini,tt0079749
+152,Zeenat Aman,tt0079749
+153,Prem Chopra,tt0079749
+154,Zakir Mukhamedzhanov,tt0079749
+155,Jean Martin,tt0079820
+156,Pascal Mazzotti,tt0079820
+157,Raymond Bussières,tt0079820
+158,Agnès Viala,tt0079820
+159,Renaud Marx,tt0079820
+160,Antonino Solmer,tt0079760
+161,Márcia Breia,tt0079760
+162,Adelaide João,tt0079760
+163,António Cara D'Anjo,tt0079760
+164,António Rama,tt0079760
+165,Marcello Mastroianni,tt0080539
+166,Anna Prucnal,tt0080539
+167,Bernice Stegers,tt0080539
+168,Jole Silvani,tt0080539
+169,Donatella Damiani,tt0080539
+170,Keiko Takeshita,tt0078349
+171,Tarô Shigaki,tt0078349
+172,Asao Koike,tt0078349
+173,Yôko Asagami,tt0078349
+174,Yoneko Matsukane,tt0078349
+175,Richard Burton,tt0079492
+176,Kate Mulgrew,tt0079492
+177,Nicholas Clay,tt0079492
+178,Cyril Cusack,tt0079492
+179,Geraldine Fitzgerald,tt0079492
+180,Miguel Ayones,tt0080495
+181,Beatriz Galbó,tt0080495
+182,Lucy Tovar,tt0080495
+183,Pancho Córdova,tt0080495
+184,Ricardo Díaz,tt0080495
+185,Mark Miller,tt0080531
+186,Slim Pickens,tt0080531
+187,Jack Glenn Evans,tt0080531
+188,Logan Field,tt0080531
+189,Maurice Grandmaison,tt0080531
+190,Diana Musca,tt0080667
+191,Ernest Maftei,tt0080667
+192,Elena Dragoi,tt0080667
+193,Florina Cercel,tt0080667
+194,Alexandru Matei,tt0080667
+195,Katsuo Nakamura,tt0074994
+196,Masaaki Daimon,tt0074994
+197,Mitsuo Hamada,tt0074994
+198,Daigo Kusano,tt0074994
+199,Mieko Takamine,tt0074994
+200,Enny Haryono,tt0078113
+201,Barry Prima,tt0078113
+202,Johann Mardjono,tt0078113
+203,Rukman Herman,tt0078113
+204,Jafarpree York,tt0078113
+205,Per Oscarsson,tt0077567
+206,Patrick Magee,tt0077567
+207,Marilù Tolo,tt0077567
+208,Brendan Price,tt0077567
+209,Niall Toibin,tt0077567
+210,Javier Escrivá,tt0078791
+211,Silvia Aguilar,tt0078791
+212,Alida Valli,tt0078791
+213,Mara Goyanes,tt0078791
+214,Carmen Maura,tt0078791
+215,Carrie Snodgress,tt0078806
+216,Ray Milland,tt0078806
+217,Ruth Cox,tt0078806
+218,Rosemary Murphy,tt0078806
+219,Frances Bay,tt0078806
+220,Al Cliver,tt0078936
+221,Sabrina Siani,tt0078936
+222,Jérôme Foulon,tt0078936
+223,Lina Romay,tt0078936
+224,Shirley Knight,tt0078936
+225,Belinda Mayne,tt0078749
+226,Mark Bodin,tt0078749
+227,Roberto Barrese,tt0078749
+228,Benedetta Fantoli,tt0078749
+229,Michele Soavi,tt0078749
+230,James Johnson,tt0078880
+231,Judith-Marie Bergan,tt0078880
+232,Jerry McGee,tt0078880
+233,Ian Scott,tt0078880
+234,Patrick Hines,tt0078880
+235,Robert Kerman,tt0078935
+236,Francesca Ciardi,tt0078935
+237,Perry Pirkanen,tt0078935
+238,Luca Barbareschi,tt0078935
+239,Salvatore Basile,tt0078935
+240,Paul Callaway,tt0073604
+241,Richard Lange,tt0073604
+242,Glenn Scherer,tt0073604
+243,Brad Ellingson,tt0073604
+244,Karen McDiarmid,tt0073604
+245,Christian Borromeo,tt0079120
+246,Alexandra Bastedo,tt0079120
+247,Emilio Gutiérrez Caba,tt0079120
+248,Berta Cabré,tt0079120
+249,José María Caffarel,tt0079120
+250,Diana Bracho,tt0080054
+251,Isabela Corona,tt0080054
+252,Manuel Ojeda,tt0080054
+253,María Rebeca,tt0080054
+254,Lilian Davis,tt0080054
+255,Ana Martín,tt0078546
+256,Enrique Lizalde,tt0078546
+257,Rafael Baledón,tt0078546
+258,Blanca Baldó,tt0078546
+259,Miguel Ángel Ferriz,tt0078546
+260,Viktor Preiss,tt0081435
+261,Pavel Pavlovský,tt0081435
+262,Radovan Lukavský,tt0081435
+263,Petr Kostka,tt0081435
+264,Radoslav Brzobohatý,tt0081435
+265,Anne Parillaud,tt0081315
+266,Sascha Hehn,tt0081315
+267,Paca Gabaldón,tt0081315
+268,María Rey,tt0081315
+269,Eva Lyberten,tt0081315
+270,Maurice Risch,tt0081513
+271,Pierre Tchernia,tt0081513
+272,Pierre Tornade,tt0081513
+273,Maurice Chevit,tt0081513
+274,Bernard Haller,tt0081513
+275,Judith Arciniega,tt0082531
+276,Rosa María Bianchi,tt0082531
+277,Maria del Carmen Cardenas,tt0082531
+278,Luis Rábago,tt0082531
+279,Richard Chamberlain,tt0081203
+280,John Houseman,tt0081203
+281,Sara Botsford,tt0081203
+282,Robin Gammell,tt0081203
+283,Gary Reineke,tt0081203
+284,Pedro Armendáriz Jr.,tt0082324
+285,Helena Rojo,tt0082324
+286,Ernesto Gómez Cruz,tt0082324
+287,Aurora Clavel,tt0082324
+288,Paco Mauri,tt0082324
+289,Laurie Lapinski,tt0082279
+290,Stephen Sachs,tt0082279
+291,David Snow,tt0082279
+292,Pamela Holland,tt0082279
+293,Dennis Ely,tt0082279
+294,Albert Antalffy,tt0079258
+295,Kati Bontovits,tt0079258
+296,Katalin Dobos,tt0079258
+297,Kornél Gelley,tt0079258
+298,Lenke Lorán,tt0079258
+299,Joaquín Hinojosa,tt0079014
+300,Cristina Sánchez Pascual,tt0079014
+301,Alicia Hermida,tt0079014
+302,Luis Politti,tt0079014
+303,Julieta Serrano,tt0079014
+304,Vera Alentova,tt0079579
+305,Aleksey Batalov,tt0079579
+306,Irina Muravyova,tt0079579
+307,Aleksandr Fatyushin,tt0079579
+308,Raisa Ryazanova,tt0079579
+309,Irina Alfyorova,tt0079835
+310,Aleksandr Abdulov,tt0079835
+311,Lyudmila Drebnyova,tt0079835
+312,Rufina Nifontova,tt0079835
+313,Klara Luchko,tt0079835
+314,Stefano Patrizi,tt0077648
+315,Lilli Carati,tt0077648
+316,Miguel Ayones,tt0077648
+317,Leonora Fani,tt0077648
+318,Simón Andreu,tt0077648
+319,Isabelle Adjani,tt0080541
+320,Daniel Auteuil,tt0080541
+321,Josiane Balasko,tt0080541
+322,Christophe Bourseiller,tt0080541
+323,Christian Clavier,tt0080541
+324,Fernando Cabral Martins,tt0080563
+325,André Gomes,tt0080563
+326,Juliet Berto,tt0080563
+327,Jorge Silva Melo,tt0080563
+328,Luís Pacheco,tt0080563
+329,Amitabh Bachchan,tt0080376
+330,Rakhee Gulzar,tt0080376
+331,Amjad Khan,tt0080376
+332,Utpal Dutt,tt0080376
+333,Prema Narayan,tt0080376
+334,Marina Neyolova,tt0080591
+335,Natalya Andreychenko,tt0080591
+336,Mariya Vinogradova,tt0080591
+337,Tatyana Bozhok,tt0080591
+338,Nikolai Skorobogatov,tt0080591
+339,Kapax,tt0080883
+340,María Bauza,tt0080883
+341,Aldo Sambrell,tt0080883
+342,Eva Bravo,tt0080883
+343,Flor Marina Rodríguez,tt0080883
+344,Rod Steiger,tt0078508
+345,David Huffman,tt0078508
+346,Robin Mattson,tt0078508
+347,Jerry Hardin,tt0078508
+348,Richard Herd,tt0078508
+349,Willie Andréason,tt0078805
+350,Vivian Falk,tt0078805
+351,Roland Johansson,tt0078805
+352,Thomas Johansson,tt0078805
+353,Marina Lindahl,tt0078805
+354,Telly Savalas,tt0078895
+355,Danny De La Paz,tt0078895
+356,Eddie Albert,tt0078895
+357,Michael V. Gazzo,tt0078895
+358,Cecilia Camacho,tt0078895
+359,Miou-Miou,tt0079145
+360,Jean-Marc Thibault,tt0079145
+361,Leny Escudéro,tt0079145
+362,Jean-Pierre Kalfon,tt0079145
+363,François Simon,tt0079145
+364,Lina Romay,tt0078053
+365,Nadine Pascal,tt0078053
+366,Olivier Mathot,tt0078053
+367,Joëlle Le Quément,tt0078053
+368,Mel Rodrigo,tt0078053
+369,Manuel Ojeda,tt0079181
+370,Norma Herrera,tt0079181
+371,José Carlos Ruiz,tt0079181
+372,Milton Rodríguez,tt0079181
+373,Ada Carrasco,tt0079181
+374,Manuel Ojeda,tt0079341
+375,Diana Bracho,tt0079341
+376,Delia Casanova,tt0079341
+377,Jorge Humberto Robles,tt0079341
+378,Noé Murayama,tt0079341
+379,Eric Silverstein,tt0079706
+380,Lola Desmond,tt0079706
+381,Daniel Odell,tt0079706
+382,Melody Bates,tt0079706
+383,Jacob Hayward,tt0079706
+384,Manuel de Blas,tt0080608
+385,Juan Carlos Sánchez,tt0080608
+386,Eduardo Calvo,tt0080608
+387,Olvido Lorente,tt0080608
+388,José Luis Cuerda,tt0080608
+389,William Wellman Jr.,tt0080915
+390,Susan Plumb,tt0080915
+391,Patty Dunning,tt0080915
+392,Russell S. Doughten Jr.,tt0080915
+393,Wenda Shereos,tt0080915
